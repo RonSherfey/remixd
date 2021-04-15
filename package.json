@@ -33,7 +33,7 @@
   "homepage": "https://github.com/ethereum/remixd#readme",
   "dependencies": {
     "@remixproject/plugin": "0.3.0-beta.5",
-    "@remixproject/plugin-api": "0.3.0-beta.5",
+    "@remixproject/plugin-api": "0.3.10",
     "@remixproject/plugin-utils": "0.3.0-beta.5",
 
     "chokidar": "^2.1.8",
